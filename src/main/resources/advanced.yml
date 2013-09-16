@@ -473,6 +473,16 @@ Skills:
         CallOfTheWild:
             # MaxHorseJumpStrength: The maximum jump strength a summoned horse can have
             MaxHorseJumpStrength: 2.0
+
+        Charge:
+            # UnlockLevel: Level when Charge unlocks
+            # ChanceMax: Maximum chance of triggering charge
+            UnlockLevel: 50
+            Chance: 25.0
+
+        Pummel:
+            # ChanceMax: Maximum chance of triggering pummel
+            Chance: 10.0
     #
     #  Settings for Unarmed
     ###
